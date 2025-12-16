@@ -3,49 +3,25 @@
     "type": "JSON",
     "content": [
       {
-        "id": "3WXYJ2",
-        "Flight": "AS1371",
-        "PickupDate": "2025-12-15",
-        "PickupTime": "04:15",
+        "id": "145909033",
+        "Flight": "WS2261",
+        "PickupDate": "2025-12-16",
+        "PickupTime": "04:00",
         "HotelName": "Planet Hollywood Costa Rica, An Autograph Collection All-Inclusive Resort",
         "HotelNumber": 8408
       },
       {
-        "id": "146111733",
-        "Flight": "WS2899",
-        "PickupDate": "2025-12-15",
-        "PickupTime": "10:00",
+        "id": "HGV84B",
+        "Flight": "AA7645",
+        "PickupDate": "2025-12-16",
+        "PickupTime": "05:30",
         "HotelName": "Planet Hollywood Costa Rica, An Autograph Collection All-Inclusive Resort",
         "HotelNumber": 8408
       },
       {
-        "id": "BXTRRJ",
-        "Flight": "UA1265",
-        "PickupDate": "2025-12-15",
-        "PickupTime": "04:15",
-        "HotelName": "Planet Hollywood Costa Rica, An Autograph Collection All-Inclusive Resort",
-        "HotelNumber": 8408
-      },
-      {
-        "id": "9886SF474872",
-        "Flight": "WS2501",
-        "PickupDate": "2025-12-15",
-        "PickupTime": "11:00",
-        "HotelName": "Planet Hollywood Costa Rica, An Autograph Collection All-Inclusive Resort",
-        "HotelNumber": 8408
-      },
-      {
-        "id": "9886SF520798",
-        "Flight": "B61692",
-        "PickupDate": "2025-12-15",
-        "PickupTime": "11:00",
-        "HotelName": "Planet Hollywood Costa Rica, An Autograph Collection All-Inclusive Resort",
-        "HotelNumber": 8408
-      },
-      {
-        "id": "J9CP33",
+        "id": "5217045",
         "Flight": "AC1320",
-        "PickupDate": "2025-12-15",
+        "PickupDate": "2025-12-16",
         "PickupTime": "11:45",
         "HotelName": "Planet Hollywood Costa Rica, An Autograph Collection All-Inclusive Resort",
         "HotelNumber": 8408
